@@ -13,6 +13,8 @@ span {
 
 section {
     display: flex;
+    height: 500px;
+    padding-bottom: 150px;
 }
 
 .half-width {
@@ -34,6 +36,12 @@ section {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+
+.dream-area {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .top-banner {
